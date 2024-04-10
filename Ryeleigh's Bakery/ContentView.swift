@@ -11,7 +11,7 @@ struct ContentView: View {
     var body: some View {
         NavigationView {
             VStack {
-                Text("Ryeleigh's Bakery")
+                Text("Ryeleigh's Bakery!")
                     .font(.custom("AmericanTypewriter", size: 40)) //made custom font for head title
                     .fontWeight(.heavy)
                 
